@@ -3,3 +3,7 @@
 Initial content of the first document
 
 Additional content for the first document
+
+##Third document
+
+file3
